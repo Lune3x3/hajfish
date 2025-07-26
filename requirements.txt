@@ -1,0 +1,4 @@
+lmstudio
+pydantic
+subprocess
+os
