@@ -1,4 +1,2 @@
-lmstudio
+openai
 pydantic
-subprocess
-os
